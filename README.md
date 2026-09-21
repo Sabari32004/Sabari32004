@@ -55,46 +55,6 @@ I am also interested in **Computer Vision, Web Development, and IoT-based applic
 <!--                     DEVELOPER PROFILE                      -->
 <!-- ========================================================= -->
 
-## 🧑‍💻 Developer Profile
-
-```python
-class Sabari:
-
-    name = "Sabari S"
-
-    education = "B.Tech in Computer Science & Engineering"
-
-    roles = [
-        "Data Analyst",
-        "Python Developer",
-        "Software Engineer",
-        "Machine Learning Enthusiast"
-    ]
-
-    primary_focus = [
-        "Data Analytics",
-        "Python Development",
-        "SQL",
-        "Power BI"
-    ]
-
-    interests = [
-        "Machine Learning",
-        "Computer Vision",
-        "Software Development",
-        "Web Development",
-        "IoT"
-    ]
-
-    currently_learning = [
-        "Power BI",
-        "Advanced SQL",
-        "Advanced Python",
-        "Data Visualization"
-    ]
-
-    motto = "Learn → Build → Improve"
-
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
@@ -149,6 +109,6 @@ class Sabari:
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ *Thanks for visiting my profile!*
 
 <!-- Proudly created with GPRM -->
