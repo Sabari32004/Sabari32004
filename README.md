@@ -44,7 +44,7 @@ I am passionate about transforming raw data into meaningful insights and buildin
 
 I enjoy working with **Python, SQL, Power BI, Data Analytics, Machine Learning, and Software Development**.
 
-I am also interested in **Computer Vision, Web Development, and IoT-based applications**.
+I am also interested in **Computer Vision, Web Development**.
 
 🌱 Currently strengthening my skills in **Power BI, SQL, Advanced Python, Data Analytics, and Data Visualization**.
 
@@ -95,9 +95,7 @@ I am also interested in **Computer Vision, Web Development, and IoT-based applic
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sabari32004&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sabari32004&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 🌐 Connect With Me
@@ -111,4 +109,3 @@ I am also interested in **Computer Vision, Web Development, and IoT-based applic
 
 ⭐ *Thanks for visiting my profile!*
 
-<!-- Proudly created with GPRM -->
