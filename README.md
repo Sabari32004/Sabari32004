@@ -1,69 +1,49 @@
-# 💫 About Me
+<!-- ===================== HERO BANNER ===================== -->
 
-👋 Hi, I'm **Sabari S**, a Computer Science graduate focused on **Data Analytics, Python Development, and Software Engineering**.
-
-🔭 Currently working on **Data Analytics, Python, and Machine Learning projects**  
-🤝 Open to collaborating on **Data Analytics, Python, Machine Learning, and Software Development projects**  
-🌱 Currently learning **Power BI, SQL, Advanced Python, and Data Visualization**  
-💬 Ask me about **Python, SQL, Power BI, Data Analytics, Machine Learning, and Web Development**  
-📊 Passionate about transforming **raw data into meaningful insights** and building practical data-driven solutions  
-⚡ Fun fact: I enjoy learning new technologies and turning ideas into real-world projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sabari%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+</p>
 
 
-# 🛠️ Tech Stack
+<!-- ===================== TYPING HEADER ===================== -->
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Python+Development;Power+BI+%7C+SQL+%7C+Data+Visualization;Machine+Learning+%7C+Computer+Vision;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</p>
 
 
-# 📊 GitHub Stats
+<!-- ===================== ABOUT ME ===================== -->
 
-![](https://github-readme-stats.shion.dev/api?username=Sabari32004&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
+## 👋 About Me
 
-![](https://streak-stats.demolab.com/?user=Sabari32004&theme=shadow_red&hide_border=false)
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sabari32004&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```python
+class Sabari:
 
+    name = "Sabari S"
+    education = "B.Tech Computer Science & Engineering"
 
-# 🏆 GitHub Trophies
+    role = [
+        "Data Analyst",
+        "Python Developer",
+        "Software Engineer",
+        "Machine Learning Enthusiast"
+    ]
 
-![](https://github-profile-trophy.vercel.app/?username=Sabari32004&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+    currently_learning = [
+        "Power BI",
+        "SQL",
+        "Advanced Python",
+        "Data Visualization"
+    ]
 
+    interests = [
+        "Data Analytics",
+        "Python Development",
+        "Machine Learning",
+        "Software Development",
+        "Web Development"
+    ]
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabari-s-943a6a280/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarinarickal004@gmail.com)
-
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-<!-- Proudly created with GPRM -->
+    motto = "Learn → Build → Improve"
