@@ -1,14 +1,99 @@
-# 💫 About Me
+<!-- ========================================================= -->
+<!--                         HERO                               -->
+<!-- ========================================================= -->
 
-👋 Hi, I'm **Sabari S**, a Computer Science graduate focused on **Data Analytics, Python Development, and Software Engineering**.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sabari%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=16"
+    width="100%"
+    alt="Header"
+  />
+</p>
 
-🔭 Currently working on **Data Analytics, Python, and Machine Learning projects**  
-🤝 Open to collaborating on **Data Analytics, Python, Machine Learning, and Software Development projects**  
-🌱 Currently learning **Power BI, SQL, Advanced Python, and Data Visualization**  
-💬 Ask me about **Python, SQL, Power BI, Data Analytics, Machine Learning, and Web Development**  
-📊 Passionate about transforming **raw data into meaningful insights** and building practical data-driven solutions  
-⚡ Fun fact: I enjoy learning new technologies and turning ideas into real-world projects
 
+<!-- ========================================================= -->
+<!--                     TYPING ANIMATION                       -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Python+Development;Power+BI+%7C+SQL+%7C+Data+Visualization;Machine+Learning+%7C+Computer+Vision;Software+Development+%7C+Web+Development;Building+Data-Driven+Solutions"
+    alt="Typing SVG"
+  />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                         ABOUT ME                            -->
+<!-- ========================================================= -->
+
+# 👋 About Me
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+    width="380"
+    align="right"
+    alt="Coding"
+  />
+</p>
+
+Hi, I'm **Sabari S**, a **Computer Science graduate** focused on **Data Analytics, Python Development, Machine Learning, and Software Engineering**.
+
+I am passionate about transforming raw data into meaningful insights and building practical, data-driven solutions.
+
+I enjoy working with **Python, SQL, Power BI, Data Analytics, Machine Learning, and Software Development**.
+
+I am also interested in **Computer Vision, Web Development, and IoT-based applications**.
+
+🌱 Currently strengthening my skills in **Power BI, SQL, Advanced Python, Data Analytics, and Data Visualization**.
+
+⚡ I enjoy learning new technologies and turning ideas into practical projects.
+
+
+<!-- ========================================================= -->
+<!--                     DEVELOPER PROFILE                      -->
+<!-- ========================================================= -->
+
+## 🧑‍💻 Developer Profile
+
+```python
+class Sabari:
+
+    name = "Sabari S"
+
+    education = "B.Tech in Computer Science & Engineering"
+
+    roles = [
+        "Data Analyst",
+        "Python Developer",
+        "Software Engineer",
+        "Machine Learning Enthusiast"
+    ]
+
+    primary_focus = [
+        "Data Analytics",
+        "Python Development",
+        "SQL",
+        "Power BI"
+    ]
+
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Software Development",
+        "Web Development",
+        "IoT"
+    ]
+
+    currently_learning = [
+        "Power BI",
+        "Advanced SQL",
+        "Advanced Python",
+        "Data Visualization"
+    ]
+
+    motto = "Learn → Build → Improve"
 
 # 🛠️ Tech Stack
 
