@@ -110,10 +110,113 @@ class Sabari:
         "Data Visualization"
     ]
 
-    motto = "Learn → Build → Improve"
-<!-- ========================================================= --> <!-- SOCIALS --> <!-- ========================================================= -->
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/sabari-s-943a6a280/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sabarinarickal004@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/_sabarii____" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <!-- ========================================================= --> <!-- TECH STACK --> <!-- ========================================================= -->
+   <!-- ========================================================= -->
+<!--                         SOCIALS                            -->
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sabari-s-943a6a280/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sabarinarickal004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_sabarii____" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+
+<!-- ========================================================= -->
+<!--                      TECH STACK                            -->
+<!-- ========================================================= -->
+
+# 🛠️ Tech Stack
+
+## 📊 Data Analytics & Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+
+## 🐍 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+
+## 🤖 Machine Learning & AI
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
+</p>
+
+
+## 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+
+## 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
+## 🔧 Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/ThingsBoard-1F1F1F?style=for-the-badge" />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                   TECHNICAL SKILLS                         -->
+<!-- ========================================================= -->
+
+# 💡 Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Data Analytics** | Data Cleaning, Exploratory Data Analysis, Data Visualization, Business Insights |
+| **Business Intelligence** | Power BI, Dashboard Development, Data Visualization |
+| **Programming** | Python, JavaScript, C |
+| **Database** | SQL, MySQL |
+| **Machine Learning** | Model Training, Object Detection, Computer Vision |
+| **Data Libraries** | Pandas, NumPy, Matplotlib |
+| **Deep Learning** | PyTorch, TensorFlow |
+| **Computer Vision** | OpenCV, YOLO |
+| **Web Development** | HTML, CSS, JavaScript, Django, FastAPI |
+| **Version Control** | Git, GitHub |
+| **Development Tools** | VS Code, Google Colab |
 🛠️ Tech Stack
 📊 Data Analytics & Business Intelligence
 <p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> </p>
